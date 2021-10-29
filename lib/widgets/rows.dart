@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_application_curso/model/contenido.dart';
 import 'package:lottie/lottie.dart';
@@ -45,7 +47,7 @@ class ScreanRow extends StatelessWidget {
   }
 
   BoxDecoration deco = BoxDecoration(
-    color: Colors.amber,
+    color: Colors.primaries[Random().nextInt(Colors.primaries.length)],
     border: Border.all(style: BorderStyle.solid),
     //shape: BoxShape.circle,
   );
