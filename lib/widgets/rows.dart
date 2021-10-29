@@ -39,7 +39,7 @@ class ScreanRow extends StatelessWidget {
                 ))),
         Expanded(
             child: Container(
-                margin: const EdgeInsets.all(16),
+                margin: const EdgeInsets.all(10),
                 decoration: deco.copyWith(shape: BoxShape.rectangle),
                 child: Lottie.network(img1.assetNet![2].toString()))),
       ],
