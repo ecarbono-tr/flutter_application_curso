@@ -9,4 +9,4 @@ Contiene primer reto en flutter
 
 ## Resultado
 
-<img src="https://raw.githubusercontent.com/ecarbono-tr/flutter_application_curso/master/assets/imagenes/Captura_curso.PNG?token=AVE5Q36PTPLOQAZDEVE4CO3BPRCF4">
+<img src="https://raw.githubusercontent.com/ecarbono-tr/flutter_application_curso/master/assets/imagenes/Captura_curso.PNG">
