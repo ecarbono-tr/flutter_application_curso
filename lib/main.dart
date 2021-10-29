@@ -3,11 +3,11 @@ import 'package:flutter_application_curso/model/contenido.dart';
 import 'package:flutter_application_curso/widgets/rows.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  MyApp({
+  const MyApp({
     Key? key,
   }) : super(key: key);
 
