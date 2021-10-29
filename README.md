@@ -1,7 +1,6 @@
 # flutter_application_curso
 
 Contiene primer reto en flutter
-
 ## Ejercicio
 
 <p> Una cuadricula 3X3 y en cada celda poner un widget (Creatividad)</p>
